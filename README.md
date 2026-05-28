@@ -13,9 +13,7 @@
 
 ## 🔭 Currently Working On
 
-- Improving my Smart Doorbell project  
-- Enhancing my **Distributed Systems & Docker** project  
-- Rebuilding my GitHub profile with clean, professional repos  
+
 
 ---
 
